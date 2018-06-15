@@ -8,9 +8,7 @@ modal-id: 2
 img: IMG_4281.jpg
 thumbnail: cinder-thumbnail.jpg
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
-  novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
-  diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: the book Cinder by Marrisa Meyer is sci-fi meets fairytale, turning Cinderlla into the robotic cyborg in the future. The mixture of both genres led to my design of a mechanical crown for this book jacket. 
 layout: default
 ---
 
