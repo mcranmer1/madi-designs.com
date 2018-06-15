@@ -1,5 +1,5 @@
 ---
-title: Awesome Title
+title: Madi Cranmer
 timezone: UTC
 collections:
   posts:
@@ -8,9 +8,19 @@ collections:
   uploads:
     title: Uploads
     output: true
-url: https://www.madi-designs.com
+url: www.madi-designs.com
+baseurl: "/madi-designs"
 email: madison_cranmer@hotmail.com
-description: This is Madison Cranmers portfolio website.  
+description: 'Madison Cranmer''s portflio website that will showcase all of her work. '
+people:
+- name: Madison Cranmer
+  pic: 1
+  position: Design Student
+  social:
+  - title: twitter
+    url: 
+  - title: facebook
+    url: 
 social:
 - title: github
   url: https://github.com/mcranmer1
