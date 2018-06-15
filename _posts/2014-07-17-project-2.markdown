@@ -5,7 +5,7 @@ categories:
 - Web Development
 subtitle: Graphic Design
 modal-id: 2
-img: treehouse.png
+img: IMG_4281.jpg
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
