@@ -8,8 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-url: https://y7kim.github.io
-baseurl: "/madi-designs.com"
+url: https://www.madi-designs.com
 email: madison_cranmer@hotmail.com
 description: This is Madison Cranmers portfolio website.  
 social:
