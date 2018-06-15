@@ -6,7 +6,7 @@ categories:
 subtitle: Graphic Design
 modal-id: 3
 img: golden.png
-thumbnail: golden-thumbnail.png
+thumbnail: alaska-thumbnail.jpg
 alt: image-alt
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
   novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo

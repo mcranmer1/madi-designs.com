@@ -6,11 +6,9 @@ categories:
 subtitle: Graphic Design
 modal-id: 1
 img: IMG_3439.jpg
-thumbnail: dreams-thumnbail.png
+thumbnail: pomona-thumbnail.jpg
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
-  novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
-  diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Pomona is a healthy smoothie company that creates drinks that are all-natural and made with healthy ingredients. The company name is based off Pomona, the goddess of fruited trees, orchards, and gardens. The logo and packaging design were created around the inspiration of Pomona. 
 layout: default
 ---
 

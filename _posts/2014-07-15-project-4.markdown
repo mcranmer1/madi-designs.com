@@ -1,9 +1,9 @@
 ---
-title: Treehouse
+title: Amazon Re-Design
 date: 2014-07-15 00:00:00 Z
 categories:
 - Web Development
-subtitle: Website Design
+subtitle: UX Design 
 layout: default
 modal-id: 4
 img: treehouse.png
