@@ -8,8 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-url: www.madi-designs.com
-baseurl: "/madi-designs"
+url: https://www.madi-designs.com
 email: madison_cranmer@hotmail.com
 description: 'Madison Cranmer''s portflio website that will showcase all of her work. '
 people:
