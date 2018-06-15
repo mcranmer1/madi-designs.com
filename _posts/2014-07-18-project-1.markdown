@@ -5,8 +5,8 @@ categories:
 - Web Development
 subtitle: Graphic Design
 modal-id: 1
-img: IMG_3439.jpg
-thumbnail: pomona-thumbnail.jpg
+img: dreams.png
+thumbnail: dreams-thumnbail.png
 alt: image-alt
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
   novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
