@@ -6,11 +6,12 @@ categories:
 subtitle: UX Design 
 layout: default
 modal-id: 4
-img: treehouse.png
-thumbnail: amazonproduct.jpg
+img: amazonproduct.jpg
+thumbnail: amazon-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 description: For the Amazon app redesign I made changes based off failures I identified in the heuristic evaluation. The app was designed to fix any errors found to help increase the design and flow of the app. 
+layout: default
 ---
 
