@@ -10,7 +10,7 @@ thumbnail: alaska-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-description: The Alaska City Guide was a magazine created to spotlight all of the hikes and bars in South Central Alaska. To see the full magazine please visit <link href="https://issuu.com/madisoncranmer/docs/alaska_guide_version_issuu" target="_blank">here</a>
+description: The Alaska City Guide was a magazine created to spotlight all of the hikes and bars in South Central Alaska. To see the full magazine please visit <a href="https://issuu.com/madisoncranmer/docs/alaska_guide_version_issuu" target="_blank">here</a>
 layout: default
 ---
 

@@ -9,8 +9,9 @@ modal-id: 6
 img: roundicons.png
 thumbnail: beast-thumbnail.jpg
 alt: image-alt
-description: <link href="https://mcranmer1.github.io/beautyandthebeast/" target="_blank">Beauty and the Beast Website</a> <br>
-<link href="https://mcranmer1.github.io/tiffanyandco/" target="_blank">Tiffany and Co</a> <br>
+description: To view my websites please click below.
+<a href="https://mcranmer1.github.io/beautyandthebeast/" target="_blank">Beauty and the Beast Website</a> <br>
+<a href="https://mcranmer1.github.io/tiffanyandco/" target="_blank">Tiffany and Co</a> <br>
 layout: default
 ---
 
