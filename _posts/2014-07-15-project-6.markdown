@@ -7,11 +7,10 @@ subtitle: Web Design
 layout: default
 modal-id: 6
 img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+thumbnail: beast-thumbnail.jpg
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
-  novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
-  diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: <link href="https://mcranmer1.github.io/beautyandthebeast/" target="_blank">Beauty and the Beast Website</a> <br>
+<link href="https://mcranmer1.github.io/tiffanyandco/" target="_blank">Tiffany and Co</a> <br>
 layout: default
 ---
 
