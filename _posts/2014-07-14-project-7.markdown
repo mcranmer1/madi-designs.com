@@ -1,15 +1,15 @@
 ---
-title: EWU UX Website
+title: Victress Beauty
 date: 2014-07-14 00:00:00 Z
 categories:
 - Web Development
-subtitle: UX Design
+subtitle: Graphic Design
 layout: default
 modal-id: 5
-img: uxmain.jpg
+img: EditedFull.jpg
 thumbnail: ux-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
+project-date: Fall 2018
 client: Start Bootstrap
 description: I was tasked with making a responsive prototype for a website that highlights the Eastern Washington Univeristy User Experience Design program. The prototype had to be viewable on a phone, tablet, and desktop. 
 layout: default
