@@ -7,11 +7,11 @@ subtitle: Graphic Design
 layout: default
 modal-id: 5
 img: EditedFull.jpg
-thumbnail: ux-thumbnail.jpg
+thumbnail: victress.jpg
 alt: image-alt
 project-date: Fall 2018
 client: Start Bootstrap
-description: I was tasked with making a responsive prototype for a website that highlights the Eastern Washington Univeristy User Experience Design program. The prototype had to be viewable on a phone, tablet, and desktop. 
+description: Victress keeps you and the enviroment in mind. An organic, eco-friendly, cruelty-free, and luxurious beauty line that combines functionality and fun.
 layout: default
 ---
 
