@@ -3,7 +3,7 @@ title: SPACED
 date: 2014-07-14 00:00:00 Z
 categories:
 - Web Development
-subtitle: Graphic Design
+subtitle: Web Design
 layout: default
 modal-id: 9
 img: EditedFull.jpg
