@@ -6,8 +6,8 @@ categories:
 subtitle: Web Design
 layout: default
 modal-id: 9
-img: EditedFull.jpg
-thumbnail: victress_thumbnail.jpg
+img: Main Page@2x.png
+thumbnail: spaced_thumbnail.jpg
 alt: image-alt
 project-date: Fall 2018
 client: Start Bootstrap
