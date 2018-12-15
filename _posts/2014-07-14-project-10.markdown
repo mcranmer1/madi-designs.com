@@ -5,12 +5,12 @@ categories:
 - Web Development
 subtitle: Graphic Design
 layout: default
-modal-id: 5
+modal-id: 10
 img: holidayhooplafull.jpg
 thumbnail: holidayhoopla_thumbnail.jpg
 alt: image-alt
 project-date: Fall 2018
 client: Start Bootstrap
-description: Victress keeps you and the enviroment in mind. An organic, eco-friendly, cruelty-free, and luxurious beauty line that combines functionality and fun.
+description: For the 1st Annual Holiday Hoopla event in Cheney, the Cheney Merchant Association needed a logo, banner, social media posts, and flyers to promote their event. In collaboration of fellow designers Joshua Thomas, and Angel Lara we created these elements for the association and they picked our designs in a classroom contest to put around Cheney for years to come. 
 layout: default
 ---

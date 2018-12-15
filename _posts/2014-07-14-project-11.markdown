@@ -5,12 +5,12 @@ categories:
 - Web Development
 subtitle: Graphic Design
 layout: default
-modal-id: 5
+modal-id: 11
 img: communitypsa.jpg
 thumbnail: foodpsa.jpg
 alt: image-alt
 project-date: Fall 2018
 client: Start Bootstrap
-description: Victress keeps you and the enviroment in mind. An organic, eco-friendly, cruelty-free, and luxurious beauty line that combines functionality and fun.
+description: A poster created for Dining Services and the Nutritionist on the Eastern Washington University campus, the goal of the poster was to educate students about farmers in their area with fresh produce and highlight the importance of buying local. 
 layout: default
 ---
