@@ -11,6 +11,6 @@ thumbnail: victress_thumbnail.jpg
 alt: image-alt
 project-date: Fall 2018
 client: Start Bootstrap
-description: SPACED was created for the company Epicurrance, they held a contest for people to prototype a website for SPACED, a space travel company. The goal of the site is to sell space travel to clients and to promote the safety of the company. To view the prototype click <a href="https://invis.io/37HJPPKWFVU#/293701925_Main_Page" target="_blank">here</a>
+description: Epicurrance held a contest for people to create a website and logo for the fictional company, SPACED. A space travel company that aims to send people to space and back, safely. The goal of the site is to encourage users to buy tickets to the moon and other space excursions. To view the prototype click <a href="https://invis.io/37HJPPKWFVU#/293701925_Main_Page" target="_blank">here</a>
 layout: default
 ---

@@ -11,7 +11,7 @@ thumbnail: victress_thumbnail.jpg
 alt: image-alt
 project-date: Fall 2018
 client: Start Bootstrap
-description: Victress keeps you and the enviroment in mind. An organic, eco-friendly, cruelty-free, and luxurious beauty line that combines functionality and fun.
+description: Victress keeps you and the enviroment in mind. An organic, eco-friendly, cruelty-free, and luxurious beauty line that combines functionality and fun. The beauty line includes a customizable eyeshadow palette that allows the buyer to pop in Victress's eyeshadow tins of their choice, bold lipstick, and strengthing mascara. 
 layout: default
 ---
 
