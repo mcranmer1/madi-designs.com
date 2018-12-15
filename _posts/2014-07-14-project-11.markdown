@@ -11,6 +11,6 @@ thumbnail: foodpsa.jpg
 alt: image-alt
 project-date: Fall 2018
 client: Start Bootstrap
-description: A poster created for Dining Services and the Nutritionist on the Eastern Washington University campus, the goal of the poster was to educate students about farmers in their area with fresh produce and highlight the importance of buying local. 
+description: A poster created for Dining Services and the Nutritionist on the Eastern Washington University campus. The goal of the poster was to educate students about organic farmers in the Cheney/Spokane area and highlight the importance of buying local. 
 layout: default
 ---

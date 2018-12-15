@@ -11,6 +11,6 @@ thumbnail: prepper_thumbnail.jpg
 alt: image-alt
 project-date: Fall 2018
 client: Start Bootstrap
-description: A meal prep app that makes the process easier and takes people dietary restrictions in mind. Having a custom meal prep plan is hard and this app makes it simplier and user friendly. 
+description: A meal prep app with efficency and people's need in mind. Prepper aims for simplicity and takes into consideration dietary restrictions and allergies the user can have. People have busy lives and Prepper can help them save time and money.
 layout: default
 ---

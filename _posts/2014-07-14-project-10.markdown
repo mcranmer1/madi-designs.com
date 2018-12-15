@@ -11,6 +11,6 @@ thumbnail: holidayhoopla_thumbnail.jpg
 alt: image-alt
 project-date: Fall 2018
 client: Start Bootstrap
-description: For the 1st Annual Holiday Hoopla event in Cheney, the Cheney Merchant Association needed a logo, banner, social media posts, and flyers to promote their event. In collaboration of fellow designers Joshua Thomas, and Angel Lara we created these elements for the association and they picked our designs in a classroom contest to put around Cheney for years to come. 
+description: For the 1st Annual Holiday Hoopla event in Cheney, the Cheney Merchant Association needed a logo, banner, social media posts, and flyers to promote their upcoming event. In collaboration with fellow designers Joshua Thomas, and Angel Lara we created these elements for the association and they picked our designs in a classroom contest to put around Cheney for years to come. 
 layout: default
 ---
