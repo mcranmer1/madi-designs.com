@@ -5,7 +5,7 @@ categories:
 - Web Development
 subtitle: Graphic Design
 layout: default
-modal-id: 11
+modal-id: 0
 img: communitypsa.jpg
 thumbnail: foodpsa.jpg
 alt: image-alt
