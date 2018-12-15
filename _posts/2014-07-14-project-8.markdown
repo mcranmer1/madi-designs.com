@@ -7,7 +7,7 @@ subtitle: UX Design
 layout: default
 modal-id: 8
 img: prepper.jpg
-thumbnail: prepper_thumbnail.jpg
+thumbnail: prepperopen.jpg
 alt: image-alt
 project-date: Fall 2018
 client: Start Bootstrap
