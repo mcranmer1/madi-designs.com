@@ -11,7 +11,7 @@ thumbnail: amazon-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-description: For the Amazon app redesign I made changes based off failures I identified in the heuristic evaluation. The app was designed to fix any errors found to help increase the design and flow of the app. 
+description: For the Amazon app redesign I made changes based off failures I identified in the heuristic evaluation. The app was designed to fix any errors found to help increase the design and flow of the app. Click <a href="https://invis.io/AYOZ83T32SE#/282833059_Product_Page" target="_blank"> here </a> to view the prototype.
 layout: default
 ---
 

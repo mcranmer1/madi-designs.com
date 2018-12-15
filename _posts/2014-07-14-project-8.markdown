@@ -11,6 +11,6 @@ thumbnail: prepper_thumbnail.jpg
 alt: image-alt
 project-date: Fall 2018
 client: Start Bootstrap
-description: A meal prep app with efficency and people's need in mind. Prepper aims for simplicity and takes into consideration dietary restrictions and allergies the user can have. People have busy lives and Prepper can help them save time and money.
+description: A meal prep app with efficency and people's need in mind. Prepper aims for simplicity and takes into consideration dietary restrictions and allergies the user can have. People have busy lives and Prepper can help them save time and money. Click on the link <a href-"https://invis.io/GZPJ2FFQ3E2#/335954691_OpenPage target="_blank">here</a> to see the prototype.
 layout: default
 ---
