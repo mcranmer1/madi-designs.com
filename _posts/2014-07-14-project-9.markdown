@@ -3,7 +3,7 @@ title: SPACED
 date: 2014-07-14 00:00:00 Z
 categories:
 - Web Development
-subtitle: Web Design
+subtitle: UX Design
 layout: default
 modal-id: 9
 img: Main Page@2x.png
