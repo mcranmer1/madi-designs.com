@@ -5,12 +5,12 @@ categories:
 - Web Development
 subtitle: Graphic Design
 modal-id: 3
-img: alaska.jpg
-thumbnail: alaska-thumbnail.jpg
+img: alaskabudget.jpg
+thumbnail: alaskabudget_thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-description: The Alaska City Guide was a magazine created to spotlight all of the hikes and bars in South Central Alaska. Photography, layout, typography, and words were all made by me. To see the full magazine please visit <a href="https://issuu.com/madisoncranmer/docs/alaska_guide_version_issuu" target="_blank">here</a>
+description: The Alaska City Guide was a magazine created to spotlight low budget options in South Central Alaska. In the guide it highlights the best bars, food, and hikes in the beautiful state. All photography, layout design, typography, and words were created by me. To see the full magazine please visit <a href="https://issuu.com/madisoncranmer/docs/alaskaguide" target="_blank">here</a>
 layout: default
 ---
 
