@@ -18,6 +18,10 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
+.madilogo {
+    width: 25%;
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
